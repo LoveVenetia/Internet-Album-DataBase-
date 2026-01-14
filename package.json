@@ -1,7 +1,7 @@
 {
-  "name": "album-rating-app",
+  "name": "internet-album-database",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -29,8 +29,8 @@
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.4.2"
   },
-  "description": "",
+  "description": "Internet Album DataBase - A full-stack web application for rating and managing music albums",
   "main": "vite.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }

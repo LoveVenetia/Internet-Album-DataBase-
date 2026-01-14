@@ -1,4 +1,4 @@
-# Album Rating App
+# Internet Album DataBase (IADb)
 
 A full-stack web application for rating and managing music albums, built with React, Material-UI, and Node.js.
 
@@ -54,8 +54,8 @@ album-rating-app/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/album-rating-app.git
-cd album-rating-app
+git clone https://github.com/yourusername/internet-album-database.git
+cd internet-album-database
 ```
 
 2. Install frontend dependencies
