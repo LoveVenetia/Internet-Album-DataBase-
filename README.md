@@ -112,4 +112,4 @@ ISC
 
 ## Acknowledgments
 
-Built as part of a web development course project.
+Built as part of a Frontend coding course project.
