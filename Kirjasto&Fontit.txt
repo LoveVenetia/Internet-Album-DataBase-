@@ -1,0 +1,21 @@
+Kirjastot ja Fontit
+
+
+Frontend Kirjastot
+
+@mui/material - Material UI komponenttikirjasto
+@emotion/react - Material UI:n vaatima tyylityskirjasto
+@emotion/styled - Material UI:n vaatima tyylityskirjasto
+@mui/icons-material - Material UI ikonit
+react-router - React Router navigaatioon
+recharts - Kaaviokirjasto tilastosivulle
+
+Backend Kirjastot
+
+express - Node.js web-sovelluskehys API:lle
+better-sqlite3 - SQLite tietokantakirjasto
+cors - Cross-Origin Resource Sharing middleware
+
+Fontti
+Roboto - Ladataan automaattisesti Material UI:n toimesta
+
